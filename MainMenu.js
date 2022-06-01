@@ -7,7 +7,7 @@ const Separator = () => (
 
 
 const MainMenu = () => {
-  return (
+  return ( 
   <ScrollView>
     <View>
     <Image
