@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MyTherapyTest",
+    "slug": "MyTherapyTest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "MyTherapyTest"
+}
